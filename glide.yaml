@@ -1,0 +1,5 @@
+package: github.com/go_eth_explorer
+import:
+- package: github.com/go-btcrpc
+- package: github.com/go-sql-driver/mysql
+- package: github.com/onrik/ethrpc
